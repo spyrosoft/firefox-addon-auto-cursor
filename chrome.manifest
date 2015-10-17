@@ -1,0 +1,5 @@
+content   auto_cursor                 chrome/content/
+skin      auto_cursor   classic/1.0   chrome/skin/
+locale    auto_cursor   en-US         chrome/locale/en-US/
+
+overlay   chrome://browser/content/browser.xul   chrome://auto_cursor/content/auto_cursor.xul
